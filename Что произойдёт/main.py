@@ -32,4 +32,4 @@ async def disaster(ctx, item):
     else:
         await ctx.send('Про такую катастрофу мы либо не знаем либо забыли')
         
-bot.run("MTEzMjI3NzgyMzEyNjYzNDQ5Nw.G15pax.N29HYGbEnZq_x-UvMYpspCKkPQMjO5jLFY3MuY")
+bot.run("TOKEN")
