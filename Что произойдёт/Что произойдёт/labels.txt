@@ -1,0 +1,6 @@
+0 Poteplenie
+1 Semletresenie
+2 Rasliv rek
+3 Rasryshenie sdaniy
+4 Poxolodanie
+5 Pojar
